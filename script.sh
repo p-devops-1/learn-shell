@@ -1,3 +1,3 @@
 ls
-yum
-cat
+ls -l
+yumn list
