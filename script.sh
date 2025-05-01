@@ -1,5 +1,5 @@
 ls
 ls -l
 
-yumn list
+yum list
 
