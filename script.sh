@@ -1,0 +1,3 @@
+ls
+yum
+cat
