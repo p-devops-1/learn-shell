@@ -5,19 +5,11 @@ example() {
 # call function
 example
 
-king() {
-  echo love movies
-}
+# Functions have their own special variables
 
-# call function
-king
-ntr() {
-  echo love you ntr
+example() {
+  echo value of 1 - $1
+  echo "value of * - $*"
+  echo "value of # - $#"
 }
-
-ntr
-
-nithin(){
-  echo happy birthday
-}
-nithin
+ example
