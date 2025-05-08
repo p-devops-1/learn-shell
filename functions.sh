@@ -12,7 +12,7 @@ king() {
 # call function
 king
 ntr() {
-  echo love you
+  echo love you ntr
 }
 
-king
+ntr
