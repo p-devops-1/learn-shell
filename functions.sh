@@ -5,9 +5,9 @@ example() {
 # call function
 example
 
-pradeep() {
+king() {
   echo love movies
 }
 
 # call function
-movies
+king
