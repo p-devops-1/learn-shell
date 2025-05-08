@@ -12,4 +12,4 @@ example() {
   echo "value of * - $*"
   echo "value of # - $#"
 }
- example
+ example 10 20 30
