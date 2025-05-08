@@ -12,5 +12,5 @@ example() {
   echo "value of * - $*"
   echo "value of # - $#"
 }
- example "10 20 30"
+ example 10 20 30
  example "$*"
