@@ -15,4 +15,3 @@ ntr() {
   echo love you ntr
 }
 
-ntr
