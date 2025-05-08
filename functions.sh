@@ -10,4 +10,4 @@ pradeep() {
 }
 
 # call function
-pradeep
+movies
