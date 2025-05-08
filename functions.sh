@@ -15,6 +15,8 @@ ntr() {
   echo love you ntr
 }
 
+ntr
+
 nithin(){
   echo happy birthday
 }
