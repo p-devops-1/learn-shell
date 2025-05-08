@@ -1,0 +1,4 @@
+example() {
+  echo hello example
+}
+
